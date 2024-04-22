@@ -1,0 +1,33 @@
+baseURL: "https://ospo.berkeley.edu/"
+languageCode: "en-us"
+title: "UC Berkeley's Open Source Program Office"
+theme: scientific-python-hugo-theme
+relativeURLs: true
+disableKinds: ["taxonomy"]
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    renderHooks:
+      link:
+        enableDefault: true
+
+params:
+  author:
+    name: "UC Berkeley's Open Source Program Office"
+  description: "UC Berkeley's Open Source Program Office Website"
+  images:
+    - /images/logo.svg
+  navbarlogo:
+    image: logo.svg
+    text: UC Berkeley's Open Source Program Office
+    link: /
+  footer:
+    logo: logo.svg
+    socialmediatitle: ""
+    socialmedia:
+      - link: https://github.com/berkeley-ospo/
+        icon: github
