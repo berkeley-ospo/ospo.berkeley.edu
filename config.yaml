@@ -25,6 +25,9 @@ params:
     image: logo.svg
     text: UC Berkeley's Open Source Program Office
     link: /
+  navbar:
+    - title: People
+      url: people
   footer:
     logo: logo.svg
     socialmediatitle: ""

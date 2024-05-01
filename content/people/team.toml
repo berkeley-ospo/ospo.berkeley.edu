@@ -1,0 +1,31 @@
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< figure >}}
+src = 'https://avatars.githubusercontent.com/u/57394'
+alt = 'Avatar of Fernando Pérez'
+title = 'Fernando Pérez'
+caption = 'Faculty Director'
+width = '200'
+{{< /figure >}}'''
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< figure >}}
+src = 'https://avatars3.githubusercontent.com/u/123428'
+alt = 'Avatar of Jarrod Millman'
+title = 'Jarrod Millman'
+caption = 'Executive Director'
+width = '200'
+{{< /figure >}}'''
+
+[[item]]
+type = 'card'
+classcard = 'text-center'
+body = '''{{< figure >}}
+src = 'https://avatars3.githubusercontent.com/u/45071'
+alt = 'Avatar of Stéfan van der Walt'
+title = 'Stéfan van der Walt'
+caption = 'Education Lead'
+{{< /figure >}}'''
