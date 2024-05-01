@@ -32,6 +32,8 @@ params:
       url: /about
     - title: People
       url: /people
+    - title: Learn
+      url: /learn
   footer:
     logo: dancing-logo-berkeley.svg
     socialmediatitle: ""
