@@ -21,6 +21,9 @@ params:
   description: "UC Berkeley's Open Source Program Office Website"
   images:
     - /images/logo.svg
+  font:
+    name: "Open Sans"
+    sizes: [400, 900]
   navbarlogo:
     image: logo.svg
     text: UC Berkeley's Open Source Program Office
