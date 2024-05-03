@@ -11,8 +11,7 @@ lightsrc = 'images/uc-ospo-logo-berkeley-light.svg'
 darksrc = 'images/uc-ospo-logo-berkeley-dark.svg'
 alt = 'Berkeley OSPO Logo'
 align = 'center'
-height = 450
-width = 300
+width = 200
 {{< /figure >}}
 '''
 
