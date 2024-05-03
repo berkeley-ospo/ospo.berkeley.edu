@@ -2,6 +2,22 @@
 title:
 ---
 
+{{< grid columns="1 1 2 2" >}}
+
+[[item]]
+type = ''
+body = '''{{< figure >}}
+src = 'images/uc-ospo-berkeley-logo.svg'
+alt = ''
+align = 'center'
+height = 450
+width = 300
+{{< /figure >}}
+'''
+
+[[item]]
+type = ''
+body = '''
 Welcome to the UC Berkeley Open Source Program Office (OSPO)!
 We're proud to build upon UC Berkeley's rich legacy of leadership in open-source software development.
 We recognize the transformative power of open source in driving innovation, fostering collaboration, and accelerating academic research.
@@ -12,3 +28,6 @@ Whether you're a seasoned developer, a curious student, or an academic seeking t
 
 Join us in shaping the future of open source at UC Berkeley.
 Together, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
+'''
+
+{{< /grid >}}

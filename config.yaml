@@ -16,23 +16,21 @@ markup:
         enableDefault: true
 
 params:
-  author:
-    name: "UC Berkeley's Open Source Program Office"
-  description: "UC Berkeley's Open Source Program Office Website"
-  images:
-    - /images/logo.svg
+  author: "UC Berkeley Open Source Program Office"
+  description: "UC Berkeley Open Source Program Office Website"
   font:
     name: "Open Sans"
     sizes: [400, 900]
   navbarlogo:
-    image: logo.svg
-    text: UC Berkeley's Open Source Program Office
+    image: dancing-logo.svg
+    altText: Dancing OSPO logo
+    text: Berkeley OSPO
     link: /
   navbar:
     - title: People
-      url: people
+      url: /people
   footer:
-    logo: logo.svg
+    logo: dancing-logo.svg
     socialmediatitle: ""
     socialmedia:
       - link: https://github.com/berkeley-ospo/
