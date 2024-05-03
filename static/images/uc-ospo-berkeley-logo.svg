@@ -30,9 +30,9 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="0.90321097"
-   inkscape:cx="462.23974"
-   inkscape:cy="231.39666"
+   inkscape:zoom="1.7172454"
+   inkscape:cx="295.8226"
+   inkscape:cy="472.8503"
    inkscape:window-width="1920"
    inkscape:window-height="1200"
    inkscape:window-x="0"
@@ -58,7 +58,7 @@
      sodipodi:role="line"
      x="205.10547"
      y="432.91476"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#003262;fill-opacity:1"
      id="tspan3">Program Office</tspan></text><text
    xml:space="preserve"
    style="font-weight:bold;font-size:56px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;fill:#1f335e"
@@ -69,7 +69,7 @@
      id="tspan1"
      x="206.16342"
      y="369.63943"
-     style="font-size:56px">Open Source</tspan></text><g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#003262;fill-opacity:1">Open Source</tspan></text><g
    id="group-R5"
    transform="matrix(0.30640061,0,0,0.30640061,2.4009004,468.84791)"><path
      id="path2-6"

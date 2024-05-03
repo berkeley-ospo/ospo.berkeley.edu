@@ -1,6 +1,6 @@
 baseURL: "https://ospo.berkeley.edu/"
 languageCode: "en-us"
-title: "UC Berkeley's Open Source Program Office"
+title: "Berkeley Open Source Program Office"
 theme: scientific-python-hugo-theme
 relativeURLs: true
 disableKinds: ["taxonomy"]
@@ -17,8 +17,8 @@ markup:
 
 params:
   author:
-    name: "UC Berkeley Open Source Program Office"
-  description: "UC Berkeley Open Source Program Office Website"
+    name: "Berkeley Open Source Program Office"
+  description: "Berkeley Open Source Program Office Website"
   font:
     name: "Open Sans"
     sizes: [400, 900]
