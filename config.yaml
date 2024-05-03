@@ -16,7 +16,8 @@ markup:
         enableDefault: true
 
 params:
-  author: "UC Berkeley Open Source Program Office"
+  author:
+    name: "UC Berkeley Open Source Program Office"
   description: "UC Berkeley Open Source Program Office Website"
   font:
     name: "Open Sans"
