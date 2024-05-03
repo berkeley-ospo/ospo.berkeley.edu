@@ -23,7 +23,7 @@ params:
     name: "Open Sans"
     sizes: [400, 900]
   navbarlogo:
-    image: dancing-logo.svg
+    image: dancing-logo-berkeley.svg
     altText: Dancing OSPO logo
     text: Berkeley OSPO
     link: /
@@ -31,7 +31,7 @@ params:
     - title: People
       url: /people
   footer:
-    logo: dancing-logo.svg
+    logo: dancing-logo-berkeley.svg
     socialmediatitle: ""
     socialmedia:
       - link: https://github.com/berkeley-ospo/
