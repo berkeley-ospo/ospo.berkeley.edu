@@ -7,7 +7,8 @@ title:
 [[item]]
 type = ''
 body = '''{{< figure >}}
-src = 'images/uc-ospo-berkeley-logo.svg'
+lightsrc = 'images/uc-ospo-berkeley-logo.svg'
+darksrc = 'images/uc-ospo-berkeley-logo-dark.svg'
 alt = ''
 align = 'center'
 height = 450
