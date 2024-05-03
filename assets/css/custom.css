@@ -1,13 +1,5 @@
 :root {
-  --fontFamily: "{{ .Site.Params.font.name }}", "Open Sans";
-}
-
-html {
   --pst-font-family-base: "Open Sans";
   --pst-font-family-heading: "Open Sans";
   --pst-font-family-monospace: "Open Sans";
-}
-
-.navbar-logo-text {
-  font-family: "Open Sans";
 }
