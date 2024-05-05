@@ -1,5 +1,5 @@
 ---
-title: "Learn"
+title: "Resources"
 ---
 
 - https://docs.github.com/en/get-started
