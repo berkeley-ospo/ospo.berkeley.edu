@@ -6,6 +6,7 @@ title:
 
 [[item]]
 type = ''
+columns = '12 12 4 4'
 body = '''{{< figure >}}
 lightsrc = 'images/uc-ospo-logo-berkeley-light.svg'
 darksrc = 'images/uc-ospo-logo-berkeley-dark.svg'
@@ -17,6 +18,7 @@ width = 200
 
 [[item]]
 type = ''
+columns = '12 12 8 8'
 body = '''
 Welcome to the Berkeley Open Source Program Office!
 We're proud to build upon UC Berkeley's rich legacy of leadership in open-source software development.
