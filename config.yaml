@@ -30,8 +30,10 @@ params:
   navbar:
     - title: About
       url: /about
-    - title: Resources
-      url: /resources
+    - title: Blog
+      url: /posts
+      #    - title: Resources
+      #      url: /resources
   footer:
     logo: bids-banner-logo-white-cropped-left-for-website-footer.png
     socialmediatitle: ""
