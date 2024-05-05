@@ -30,6 +30,8 @@ Whether you're a seasoned developer, a curious student, or an academic seeking t
 
 Join us in shaping the future of open source at UC Berkeley.
 Together, we can harness the collective intelligence and creativity of our community to meaningfully transform how research is conducted, produced, and disseminated.
+
+[Read more about the Berkeley OSPO](/about).
 '''
 
 {{< /grid >}}
