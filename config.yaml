@@ -28,6 +28,8 @@ params:
     text: Berkeley OSPO
     link: /
   navbar:
+    - title: About
+      url: /about
     - title: People
       url: /people
   footer:
