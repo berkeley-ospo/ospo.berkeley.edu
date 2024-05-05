@@ -30,8 +30,6 @@ params:
   navbar:
     - title: About
       url: /about
-    - title: People
-      url: /people
     - title: Resources
       url: /resources
   footer:
