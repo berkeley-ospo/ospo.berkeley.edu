@@ -38,3 +38,7 @@ params:
     socialmedia:
       - link: https://github.com/berkeley-ospo/
         icon: github
+
+    quicklinks:
+      column1:
+        title: ""
