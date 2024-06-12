@@ -32,8 +32,8 @@ params:
       url: /about
     - title: Blog
       url: /posts
-    - title: Resources
-      url: /resources
+      #    - title: Resources
+      #      url: /resources
   footer:
     logo: dancing-logo-berkeley.svg
     socialmediatitle: ""

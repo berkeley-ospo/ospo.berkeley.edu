@@ -1,16 +1,15 @@
 ---
 title: "Charting a Course for Open Source Innovation"
-date: 2024-05-03
+date: 2024-06-12
 draft: false
 description: "UC Berkeley Joins Multi-Campus Effort Supported by $1.85 Million Grant from Alfred P. Sloan Foundation to Advance Open Source Initiatives Across UC System."
 tags: [ospo]
 author: ["Jarrod Millman <jarrod-millman>"]
 ---
 
-I am thrilled to share some exciting news from the heart of the University of California, Berkeley.
-As the newly appointed Executive Director of the UC Berkeley Open Source Program Office (OSPO), I am honored to lead our university's participation in a transformative multi-campus initiative supported by a generous $1.85 million grant from the Alfred P. Sloan Foundation.
+I am thrilled to launch the UC Berkeley Open Source Program Office (OSPO) as part of a transformative UC-wide initiative supported by a generous $1.85 million grant from the Alfred P. Sloan Foundation.
 
-At UC Berkeley, we are deeply committed to advancing open source principles and fostering collaboration across disciplines.
+At the Berkeley Institute for Data Science, we are deeply committed to advancing open source principles and fostering collaboration across disciplines.
 This commitment is not just a statement; it's a driving force behind everything we do.
 And now, with the establishment of our OSPO, we are poised to take our dedication to open source to new heights.
 
@@ -30,5 +29,5 @@ Together, we will explore new opportunities for collaboration, tackle complex ch
 As we look ahead, I am filled with optimism and excitement for the possibilities that lie ahead.
 Together, we have the power to shape the future of open source innovation and redefine the boundaries of what's possible.
 
-Stay tuned for more updates as we embark on this journey together.
+Stay tuned for more updates as we embark on this journey.
 Together, let's build a brighter future through the power of open source.
