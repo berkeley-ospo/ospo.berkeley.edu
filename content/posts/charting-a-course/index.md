@@ -4,14 +4,15 @@ date: 2024-06-12
 draft: false
 description: "UC Berkeley Joins Multi-Campus Effort Supported by $1.85 Million Grant from Alfred P. Sloan Foundation to Advance Open Source Initiatives Across UC System."
 tags: [ospo]
+displayInList: true
 author: ["Jarrod Millman <jarrod-millman>"]
 
 resources:
-- name: featuredImage
-  src: "kickoff.png"
-  params:
-    description: "UC-wide Network of OSPOs kickoff meeting at UCSC (May 31, 2024)"
-    showOnTop: true
+  - name: featuredImage
+    src: "kickoff.png"
+    params:
+      description: "UC-wide Network of OSPOs kickoff meeting at UCSC (May 31, 2024)"
+      showOnTop: true
 ---
 
 I am thrilled to launch the UC Berkeley Open Source Program Office (OSPO) as part of a transformative UC-wide initiative supported by a generous $1.85 million grant from the Alfred P. Sloan Foundation.
