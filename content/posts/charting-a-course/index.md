@@ -15,27 +15,50 @@ resources:
       showOnTop: true
 ---
 
-I am thrilled to launch the UC Berkeley Open Source Program Office (OSPO) as part of a transformative UC-wide initiative supported by a generous $1.85 million grant from the Alfred P. Sloan Foundation.
+Last month I attended the University of California network of Open Source Program Offices (OSPOs) kick-off meeting, at the Institute for Arts and Sciences in Santa Cruz.
+The meeting brought together team members from various UC campuses, including
+UC Santa Cruz (James Davis, Stephanie Lieggi, Emily Lovell, and Juanita Gomez),
+UC Berkeley (Jarrod Millman),
+UC Davis (Peter Brantley, Vladimir Filkov, and Vessela Ensberg),
+UC Los Angeles (Todd Grappone and Tim Dennis),
+UC Santa Barbara (Amber Budden, Greg Janée, and Jonathan Balkind), and
+UC San Diego (Erik Mitchell and David Minor).
+We represented a diverse range of departments and roles, including library services, research computing, data science initiatives, and academic departments focused on computer science and engineering.
 
-At the Berkeley Institute for Data Science, we are deeply committed to advancing open source principles and fostering collaboration across disciplines.
-This commitment is not just a statement; it's a driving force behind everything we do.
-And now, with the establishment of our OSPO, we are poised to take our dedication to open source to new heights.
+One of our key goals was to connect with one another, share ideas, and align efforts.
+The agenda was packed with insightful discussions and collaborative activities designed to set the stage for the network's future endeavors.
+Key sessions included:
 
-Led by UC Santa Cruz and joined by UC Berkeley, along with several other esteemed UC campuses, this initiative represents a significant milestone in our collective journey towards building a robust open source ecosystem within the UC system.
-Together, we aim to leverage our expertise, resources, and passion for innovation to drive positive change and empower communities through open source.
+1. **Welcome.**
+   The event began with a warm welcome from Josh Greenberg of the Sloan Foundation, who provided a high-level overview of the project and its significance.
 
-Joining me in this endeavor are esteemed leaders in the field of open source software development: Professor Fernando Pérez and Co-PI Stéfan van der Walt.
-With their guidance and expertise, we are laying the groundwork for a thriving open source community at UC Berkeley and beyond.
+2. **Meeting Expectations / Goals.**
+   This session focused on setting clear expectations and goals for the day, ensuring that all participants were aligned on the key outcomes.
 
-As we embark on this journey, our focus is clear: to establish a fully functioning UC Berkeley OSPO that serves as a beacon of collaboration, innovation, and inclusivity.
-With the support of the Sloan Foundation grant, we will invest in scoping activities, campus outreach, and fundraising efforts to ensure the success of our mission.
+3. **Review of Timeline and Deliverables.**
+   Participants engaged in an interactive mapping activity to visualize the project's timeline and deliverables, identifying connections and potential challenges.
 
-But our work doesn't stop there.
-We are committed to engaging with stakeholders, both within and beyond the UC system, to foster a culture of openness, transparency, and shared knowledge.
-Together, we will explore new opportunities for collaboration, tackle complex challenges, and drive meaningful impact through open source initiatives.
+4. **Branding and Communications.**
+   This session explored strategies for branding and communication, including the development of logos, styles, and platforms for both internal and external communications.
 
-As we look ahead, I am filled with optimism and excitement for the possibilities that lie ahead.
-Together, we have the power to shape the future of open source innovation and redefine the boundaries of what's possible.
+5. **Governance and Roles.**
+   Discussions centered on defining the roles and responsibilities within the OSPO Leadership Group (OLG) and working groups, as well as the governance structure between campuses.
 
-Stay tuned for more updates as we embark on this journey.
-Together, let's build a brighter future through the power of open source.
+The afternoon was dedicated to thematic discussions on Discovery, Sustainability, and Education before continuing our Timeline and Deliverable discussion.
+
+6. **Discovery Theme.**
+   The priority is to get the GitHub scraping run at each of the campuses to enable discovery of open source projects. More meetings are needed across the people working on this theme to discuss what kind of data is useful, how to get clean and useful data, and what data to collect.
+
+7. **Sustainability Theme.**
+   Identify projects in critical moments of financial need to continue and leverage ORB data to identify "rising" projects that would best leverage OSPO support. Consider supervised student software development teams as a way to offer training while also growing contributor communities and maintaining projects.
+
+8. **Education Theme.**
+   Conduct a gap analysis to identify existing curricula, resources needed in Carpentries offerings, and how-to-OSPO resources. Gather metadata and figure out how to organize educational resources. Connect with Teaching Open Source and other OSPO communities to compare notes. Explore the Carpentries Incubator and Lab for developing courses, with potential to use existing campus hackathons to pilot lessons. Plan early events like Hacktoberfest@UCSC in Fall 2024 and workshops on understanding large codebases with GitHub Copilot.
+
+The key next steps focus on finalizing the project governance and management approach, branding and communications strategy, and advancing the work in the three thematic areas of Discovery, Sustainability, and Education.
+
+As the UC-wide network of OSPOs moves forward, it is poised to play a pivotal role in advancing open source principles and practices across the UC system.
+With the support of the Alfred P. Sloan Foundation and the collective efforts of the UC campuses, the network is excited to embark on this journey towards a more open, collaborative, and innovative future.
+
+Stay tuned for more updates and opportunities to get involved in the UC-wide network of OSPOs.
+Together, we can drive positive change and make a lasting impact through the power of open source.
