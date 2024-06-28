@@ -26,38 +26,38 @@ The agenda was packed with insightful discussions and collaborative activities d
 Morning sessions included:
 
 1. **Welcome.**
-The event began with a warm welcome from Josh Greenberg of the Sloan Foundation, who provided a high-level overview of the project and its significance.
+   The event began with a warm welcome from Josh Greenberg of the Sloan Foundation, who provided a high-level overview of the project and its significance.
 
 2. **Meeting Expectations / Goals.**
-Facilitated by James Davis (UCSC) and Stephanie Lieggi (UCSC), this session focused on setting clear expectations and goals for the day, ensuring that all participants were aligned on the key outcomes.
-We discussed the priorities for the network, including articulating the vision, team building, accountability, roles, project management, and governance.
+   Facilitated by James Davis (UCSC) and Stephanie Lieggi (UCSC), this session focused on setting clear expectations and goals for the day, ensuring that all participants were aligned on the key outcomes.
+   We discussed the priorities for the network, including articulating the vision, team building, accountability, roles, project management, and governance.
 
 3. **Review of Timeline and Deliverables.**
-Facilitated by Amber Budden (UCSB) and Vessela Ensberg (UCD), participants engaged in an interactive mapping activity to visualize the project's timeline and deliverables, identifying connections and potential challenges.
-Vessela presented a detailed spreadsheet with subitems and status updates, helping to recalibrate and assess the project's progress.
+   Facilitated by Amber Budden (UCSB) and Vessela Ensberg (UCD), participants engaged in an interactive mapping activity to visualize the project's timeline and deliverables, identifying connections and potential challenges.
+   Vessela presented a detailed spreadsheet with subitems and status updates, helping to recalibrate and assess the project's progress.
 
 4. **Branding and Communications.**
-Facilitated by Stephanie Lieggi (UCSC) and myself, this session explored strategies for branding and communication, including the development of logos, styles, and platforms for both internal and external communications.
-We discussed the overall framework for coordinated website deployment, GitHub organization structures, and communication channels such as Discourse and Mastodon.
+   Facilitated by Stephanie Lieggi (UCSC) and myself, this session explored strategies for branding and communication, including the development of logos, styles, and platforms for both internal and external communications.
+   We discussed the overall framework for coordinated website deployment, GitHub organization structures, and communication channels such as Discourse and Mastodon.
 
 5. **Governance and Roles.**
-Facilitated by David Minor (UCSD) and Erik Mitchell (UCSD), discussions centered on defining the roles and responsibilities within the OSPO Leadership Group (OLG) and working groups, as well as the governance structure between campuses.
-We defined the membership and responsibilities of the OLG and working groups, and discussed the governance structure between the OLG, campuses, and working groups.
+   Facilitated by David Minor (UCSD) and Erik Mitchell (UCSD), discussions centered on defining the roles and responsibilities within the OSPO Leadership Group (OLG) and working groups, as well as the governance structure between campuses.
+   We defined the membership and responsibilities of the OLG and working groups, and discussed the governance structure between the OLG, campuses, and working groups.
 
 The afternoon was dedicated to thematic discussions on Discovery, Sustainability, and Education before continuing our Timeline and Deliverable discussion:
 
 6. **Discovery Theme.**
-Facilitated by Amber Budden (UCSB) and Emily Lovell (UCSC), the priority is to get the GitHub scraping run at each of the campuses to enable discovery of open source projects.
-We discussed the need for more meetings across the people working on this theme to determine what kind of data is useful, how to get clean and useful data, and what data to collect.
+   Facilitated by Amber Budden (UCSB) and Emily Lovell (UCSC), the priority is to get the GitHub scraping run at each of the campuses to enable discovery of open source projects.
+   We discussed the need for more meetings across the people working on this theme to determine what kind of data is useful, how to get clean and useful data, and what data to collect.
 
 7. **Sustainability Theme.**
-Facilitated by Vladimir Filkov (UCD) and myself, we focused on identifying projects in critical moments of financial need and leveraging ORB data to identify "rising" projects that would best leverage OSPO support.
-We also considered supervised student software development teams as a way to offer training while growing contributor communities and maintaining projects.
+   Facilitated by Vladimir Filkov (UCD) and myself, we focused on identifying projects in critical moments of financial need and leveraging ORB data to identify "rising" projects that would best leverage OSPO support.
+   We also considered supervised student software development teams as a way to offer training while growing contributor communities and maintaining projects.
 
 8. **Education Theme.**
-Facilitated by Todd Grappone (UCLA) and Emily Lovell (UCSC), this session involved conducting a gap analysis to identify existing curricula, resources needed in Carpentries offerings, and how-to-OSPO resources.
-We discussed gathering metadata and organizing educational resources, connecting with Teaching Open Source and other OSPO communities, and exploring the Carpentries Incubator and Lab for developing courses.
-We also planned early events like Hacktoberfest@UCSC in Fall 2024 and workshops on understanding large codebases with GitHub Copilot.
+   Facilitated by Todd Grappone (UCLA) and Emily Lovell (UCSC), this session involved conducting a gap analysis to identify existing curricula, resources needed in Carpentries offerings, and how-to-OSPO resources.
+   We discussed gathering metadata and organizing educational resources, connecting with Teaching Open Source and other OSPO communities, and exploring the Carpentries Incubator and Lab for developing courses.
+   We also planned early events like Hacktoberfest@UCSC in Fall 2024 and workshops on understanding large codebases with GitHub Copilot.
 
 Over the next few months, our focus will be on finalizing the project governance and management approach, branding and communications strategy, and advancing the work in the three thematic areas.
 
