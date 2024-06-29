@@ -8,8 +8,8 @@ title:
 type = ''
 columns = '12 12 4 4'
 body = '''{{< figure >}}
-lightsrc = 'images/uc-ospo-logo-berkeley-light.svg'
-darksrc = 'images/uc-ospo-logo-berkeley-dark.svg'
+lightsrc = 'images/uc-ospo-logo-berkeley-light.png'
+darksrc = 'images/uc-ospo-logo-berkeley-dark.png'
 alt = 'Berkeley OSPO Logo'
 align = 'center'
 width = 200
