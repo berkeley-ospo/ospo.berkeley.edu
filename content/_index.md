@@ -8,8 +8,8 @@ title:
 type = ''
 columns = '12 12 4 4'
 body = '''{{< figure >}}
-lightsrc = 'images/uc-ospo-logo-berkeley-light.svg'
-darksrc = 'images/uc-ospo-logo-berkeley-dark.svg'
+lightsrc = 'images/uc-ospo-logo-berkeley-light.png'
+darksrc = 'images/uc-ospo-logo-berkeley-dark.png'
 alt = 'Berkeley OSPO Logo'
 align = 'center'
 width = 200
@@ -20,7 +20,7 @@ width = 200
 type = ''
 columns = '12 12 8 8'
 body = '''
-Welcome to the Berkeley Open Source Program Office!
+Welcome to the Berkeley Open Source Program Office, housed within the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu).
 We're proud to build upon UC Berkeley's rich legacy of leadership in open-source software development.
 We recognize the transformative power of open-source in driving innovation, fostering collaboration, and accelerating academic research.
 Our mission is to cultivate a vibrant open-source community within our university and beyond, empowering students, faculty, and researchers to contribute to and benefit from the global open-source ecosystem.

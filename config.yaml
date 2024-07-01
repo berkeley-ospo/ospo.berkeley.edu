@@ -33,7 +33,7 @@ params:
     - title: Resources
       url: /resources
   footer:
-    logo: dancing-logo-berkeley.svg
+    logo: bids-banner-logo-white-cropped-left-for-website-footer.png
     socialmediatitle: ""
     socialmedia:
       - link: https://github.com/berkeley-ospo/

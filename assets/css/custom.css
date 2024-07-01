@@ -3,3 +3,7 @@
   --pst-font-family-heading: "Open Sans";
   --pst-font-family-monospace: "Open Sans";
 }
+
+#footer-logo {
+  height: auto;
+}
