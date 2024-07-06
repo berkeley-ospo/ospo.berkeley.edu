@@ -8,8 +8,8 @@
    y="0px"
    viewBox="0 0 297.00012 534.84204"
    xml:space="preserve"
-   sodipodi:docname="uc-ospo-berkeley-logo.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="uc-ospo-logo-berkeley-light.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    width="297.00012"
    height="534.84204"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,30 +28,19 @@
    borderopacity="0.25"
    inkscape:showpageshadow="2"
    inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
+   inkscape:pagecheckerboard="true"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="0.8586227"
-   inkscape:cx="635.90213"
+   inkscape:cx="415.19983"
    inkscape:cy="323.77434"
-   inkscape:window-width="3436"
-   inkscape:window-height="1386"
+   inkscape:window-width="1920"
+   inkscape:window-height="1200"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
-<style
+   inkscape:current-layer="Layer_1" />&#10;<style
    type="text/css"
-   id="style1">
-	.st0{fill:#F7945E;}
-	.st1{fill:#619BD3;}
-	.st2{fill:#F15C45;}
-	.st3{fill:#FFCA26;}
-	.st4{fill:#214475;}
-	.st5{enable-background:new    ;}
-	.st6{fill:#224475;}
-</style>
-
-<text
+   id="style1">&#10;	.st0{fill:#F7945E;}&#10;	.st1{fill:#619BD3;}&#10;	.st2{fill:#F15C45;}&#10;	.st3{fill:#FFCA26;}&#10;	.st4{fill:#214475;}&#10;	.st5{enable-background:new    ;}&#10;	.st6{fill:#224475;}&#10;</style>&#10;&#10;<text
    xml:space="preserve"
    id="text1"
    style="font-weight:bold;font-size:37.3333px;font-family:Lato;-inkscape-font-specification:'Lato Bold';white-space:pre;shape-inside:url(#rect1);display:inline;fill:#1f335e;fill-opacity:1"
