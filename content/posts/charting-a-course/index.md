@@ -19,14 +19,14 @@ On May 31, 2024, I participated in the kick-off event for our recently announced
 Despite almost a year of regular video conferences to plan this collaboration and develop the proposal that funds the formation of our network of OSPOs, this was the first time many of us had the opportunity to interact with each other in person.
 
 This event brought together team members from UC Berkeley, UC Davis, UC Los Angeles, UC Santa Barbara, UC Santa Cruz, and UC San Diego.
-Collectively, we represent a diverse range of departments and roles, including library services, research computing, data science initiatives, and academic departments focused on computer science and engineering.
+Collectively, we represent a diverse range of departments and roles, including library sciences, research computing, data science initiatives, and academic departments focused on computer science and engineering.
 
 One of our key goals was to connect with one another, share ideas, and align efforts.
 The agenda was packed with insightful discussions and collaborative activities designed to set the stage for the network's future endeavors.
 Morning sessions included:
 
 1. **Welcome.**
-   The event began with a warm welcome from Josh Greenberg of the Sloan Foundation, who provided a high-level overview of the project and its significance.
+   The event began with a warm welcome from Josh Greenberg of the Sloan Foundation, who shared his support for our collective goals and reiterated the significance of this project.
 
 2. **Meeting Expectations / Goals.**
    Facilitated by James Davis (UCSC) and Stephanie Lieggi (UCSC), this session focused on setting clear expectations and goals for the day, ensuring that all participants were aligned on the key outcomes.
@@ -55,9 +55,9 @@ The afternoon was dedicated to thematic discussions on Discovery, Sustainability
    We also considered supervised student software development teams as a way to offer training while growing contributor communities and maintaining projects.
 
 8. **Education Theme.**
-   Facilitated by Todd Grappone (UCLA) and Emily Lovell (UCSC), this session involved conducting a gap analysis to identify existing curricula, resources needed in Carpentries offerings, and how-to-OSPO resources.
+   Facilitated by Todd Grappone (UCLA) and Emily Lovell (UCSC), this session highlighted the need for a gap analysis to identify existing curricula, resources needed in Carpentries offerings, and how-to-OSPO resources.
    We discussed gathering metadata and organizing educational resources, connecting with Teaching Open Source and other OSPO communities, and exploring the Carpentries Incubator and Lab for developing courses.
-   We also planned early events like Hacktoberfest@UCSC in Fall 2024 and workshops on understanding large codebases with GitHub Copilot.
+   We also brainstormed around early events like Hacktoberfest@UCSC in Fall 2024 and workshops on understanding large codebases with GitHub Copilot.
 
 Over the next few months, our focus will be on finalizing the project governance and management approach, branding and communications strategy, and advancing the work in the three thematic areas.
 
