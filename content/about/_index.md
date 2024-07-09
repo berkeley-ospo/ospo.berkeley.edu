@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-The Berkeley Open Source Program Office sit within the [Berkeley Institute for Data Science](https://bids.berkeley.edu/) and
+The Berkeley Open Source Program Office sits within the [Berkeley Institute for Data Science](https://bids.berkeley.edu/) and
 acts as the central hub for coordinating, facilitating, and supporting open source initiatives at UC Berkeley, primarily within
 the university's research community.
 
