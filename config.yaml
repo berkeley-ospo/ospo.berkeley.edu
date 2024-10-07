@@ -30,8 +30,10 @@ params:
   navbar:
     - title: About
       url: /about
-    - title: Blog
-      url: /posts
+    - title: News
+      url: /news
+      # - title: Blog
+      #   url: /posts
       #    - title: Resources
       #      url: /resources
   footer:
@@ -40,7 +42,12 @@ params:
     socialmedia:
       - link: https://github.com/berkeley-ospo/
         icon: github
+      - link: https://ucospo.net/tags/berkeley/atom.xml
+        icon: rss-feed
 
     quicklinks:
       column1:
         title: ""
+        links:
+          - text: UC OSPO Network
+            link: https://ucospo.net/

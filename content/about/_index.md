@@ -14,6 +14,6 @@ Tools like Jupyter and other key pieces of the Scientific Python ecosystem were 
 
 To build on this rich history, the Berkeley OSPO was founded in May 2024 as part of a [UC OSPO Network](https://ucospo.net/), enabled by a grant from the Alfred P. Sloan Foundation.
 
-## Team
+## Leadership
 
 {{< grid file="team.toml" columns="1 2 3 4" />}}
