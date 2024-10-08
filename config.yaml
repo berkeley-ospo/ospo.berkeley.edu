@@ -32,10 +32,8 @@ params:
       url: /about
     - title: News
       url: /news
-      # - title: Blog
-      #   url: /posts
-      #    - title: Resources
-      #      url: /resources
+    - title: Projects
+      url: /projects
   footer:
     logo: bids-banner-logo-white-cropped-left-for-website-footer.png
     socialmediatitle: ""
