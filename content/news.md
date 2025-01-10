@@ -1,19 +1,27 @@
 ---
 title: News
-newsHeader: OSS Sustainability Forum at ASE 2024
-date: 2024-10-08
+newsHeader: OLG Winter Meeting 2025
+date: 2025-01-10
 sidebar: false
 ---
 
+## 2025--01--10: OLG Winter Meeting 2025
+
+Executive Director Jarrod Millman attended the [UC OSPO Network](https://ucospo.net/) Leadership Group (OLG) Winter Meeting at UC Santa Cruz.
+
+## 2025--01--09: CURIOSS Members Winter Workshop 2025
+
+Executive Director Jarrod Millman attended the ["CURIOSS Members Winter Workshop 2025"](https://ucsc-ospo.github.io/curiosswinter2025/).
+
 ## 2024--10--08: OSS Sustainability Forum at ASE 2024
 
-Executive Director Jarrod Millman is co-organizing the ["OSS Sustainability Forum: Roads from Theory to Practice"](https://conf.researchr.org/track/ase-2024/ase-2024-oss-sustainability-forum)
-as part of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024). The forum will be held on Friday, November 1st in Sacramento, CA and
+Executive Director Jarrod Millman co-organized the ["OSS Sustainability Forum: Roads from Theory to Practice"](https://conf.researchr.org/track/ase-2024/ase-2024-oss-sustainability-forum)
+as part of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024). The forum was be held on Friday, November 1st in Sacramento, CA and
 will explore practical approaches to open-source software sustainability.
 
 ## 2024--10--04: UC Tech 2024 Talk
 
-Executive Director Jarrod Millman is leading a panel discussion titled ["What's an OSPO? Open Source Program Offices and the University of California"](https://myuctech2024.ucdavis.edu/website/77566/)
+Executive Director Jarrod Millman led a panel discussion titled ["What's an OSPO? Open Source Program Offices and the University of California"](https://myuctech2024.ucdavis.edu/website/77566/)
 at UC Tech 2024, discussing the role and impact of OSPOs in the UC system.
 
 ## 2024-10-02: STRUDEL Kick-off Meeting
