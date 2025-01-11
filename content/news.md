@@ -1,13 +1,13 @@
 ---
 title: News
-newsHeader: OLG Winter Meeting 2025
+newsHeader: OSPO Leadership Group Winter Meeting 2025
 date: 2025-01-10
 sidebar: false
 ---
 
-## 2025--01--10: OLG Winter Meeting 2025
+## 2025--01--10: OSPO Leadership Group Winter Meeting 2025
 
-Executive Director Jarrod Millman attended the [UC OSPO Network](https://ucospo.net/) Leadership Group (OLG) Winter Meeting at UC Santa Cruz.
+Executive Director Jarrod Millman attended the [UC OSPO Network](https://ucospo.net/) Leadership Group Winter Meeting at UC Santa Cruz.
 
 ## 2025--01--09: CURIOSS Members Winter Workshop 2025
 
