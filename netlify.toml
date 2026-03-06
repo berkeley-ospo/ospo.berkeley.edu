@@ -1,0 +1,11 @@
+[build.environment]
+  PYTHON_VERSION = "3.14"
+  NODE_VERSION = "20"
+
+[build]
+  base = "/"
+  publish = "_build/html"
+  command = "pip install -r requirements.txt && myst build --html"
+
+[context.deploy-preview]
+  ignore = "false"
