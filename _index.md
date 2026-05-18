@@ -2,12 +2,14 @@
 site:
   hide_outline: true
   hide_toc: true
+  hide_download: true
   hide_footer_links: true
 ---
 
-:::::{grid} 1 2 2 2
+:::::{grid} 1 12 12 12
 
 ::::{grid-item}
+:columns: 3
 
 :::{image} static/images/uc-ospo-logo-berkeley-dark.png
 :class: hidden dark:block
@@ -23,6 +25,7 @@ site:
 ::::
 
 ::::{grid-item}
+:columns: 9
 
 Welcome to the **Berkeley Open Source Program Office**, housed within the [**Berkeley Institute for Data Science (BIDS)**](https://bids.berkeley.edu).
 As a founding member of the [**UC OSPO Network**](https://ucospo.net/), we aim to facilitate knowledge sharing, promote best practices, and provide guidance for open-source projects at every stage of their lifecycle.
