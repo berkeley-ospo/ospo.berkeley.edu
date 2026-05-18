@@ -69,3 +69,8 @@ main {
     font-weight: bold;
   }
 }
+
+/* Hide download button */
+.myst-fm-downloads-button {
+  display: none;
+}
