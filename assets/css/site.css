@@ -74,3 +74,8 @@ main {
 .myst-fm-downloads-button {
   display: none;
 }
+
+/* Set site title bold */
+.myst-home-link {
+  font-weight: bold;
+}
