@@ -79,3 +79,8 @@ main {
 .myst-home-link {
   font-weight: bold;
 }
+
+/* Reduce whitespace at top of content */
+.myst-fm-block {
+  height: 0;
+}
